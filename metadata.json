@@ -1,0 +1,6 @@
+{
+  "name": "Panel de Control y Espacio de Trabajo",
+  "description": "Interfaz moderna en español para gestión de tareas, notas, temporizador Pomodoro y control de productividad personal y de equipos.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
